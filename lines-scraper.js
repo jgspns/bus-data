@@ -18,7 +18,7 @@ function timestamp() {
 console.log(`${timestamp()} Scraping ${sampledStations.length} stations`)
 
 while (true) {
-  console.log(`${timestamp()} Found ${fs.readdirSync('./scraped-data').length} lines in total`)
+  console.log(`${timestamp()} Found ${fs.readdirSync('./data/lines').length} lines in total`)
   for (const stationId of sampledStations) {
     const request = {
       dispatcher: proxy,
@@ -75,7 +75,7 @@ while (true) {
       }
 
       fs.writeFileSync(
-        `./scraped-data/${line.actual_line_number}.json`, 
+        `./data/lines/${line.actual_line_number}.json`, 
         JSON.stringify(line, null, 2), 
         { encoding: `utf-8`, flag: `w` }
       )

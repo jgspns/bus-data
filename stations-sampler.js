@@ -53,12 +53,12 @@ async function getProxy() {
   // const response = await fetch('http://127.0.0.1:8000/proxies/random')
   // const json = await response.json()
   // return `http://${json.ip}:${json.port}`
-  return 'http://i9ip7pk06246hi2:lf9mwf5utchyyc7@rp.proxyscrape.com:6060'
+  return Buffer.from('aHR0cDovL2k5aXA3cGswNjI0NmhpMjo4YzJqYXowNHBjOXU3anJAcnAucHJveHlzY3JhcGUuY29tOjYwNjA=', 'base64').toString()
 }
 
 async function deleteProxy(proxy) {
   log('Deleteing proxy ' + proxy)
-  await fetch(`http://127.0.0.1:8000/proxies/${proxy}/delete`, { method: 'POST' })
+  // await fetch(`http://127.0.0.1:8000/proxies/${proxy}/delete`, { method: 'POST' })
 }
 
 async function getLineNumbers() {
@@ -149,7 +149,7 @@ async function sampleStations() {
   await Promise.all(Array(16).fill().map(queueProcessor))
 
   fs.writeFileSync(
-    `./scraped-data/sampled-stations.json`, 
+    `./data/sampled-stations.json`, 
     JSON.stringify(Array.from(sampledStations), null, 2), 
     { encoding: `utf-8`, flag: `w` }
   )
