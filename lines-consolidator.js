@@ -67,7 +67,7 @@ async function read() {
     files.map(async (fileName) => {
       const file = await fs.readFile(`./data/lines/${fileName}`, "utf-8")
       const json = JSON.parse(file)
-      const { id, actual_line_number, line_number, line_title, all_stations, line_route } = json
+      const { id, actual_line_number, line_number, main_line_title, all_stations, line_route } = json
 
       const stations = all_stations.map((station) => {
         return {
@@ -92,7 +92,7 @@ async function read() {
         stations,
         actualLineNumber: actual_line_number,
         displayLineNumber: line_number,
-        title: line_title
+        title: main_line_title
       }
 
       lines.push(line)
@@ -100,7 +100,7 @@ async function read() {
     })
   )
 
-  const linesJson = JSON.stringify(lines)
+  const linesJson = JSON.stringify(sortLines(lines))
   const lineRoutesJson = JSON.stringify(lineRoutes)
 
   /* Either write to file or upload to github */
@@ -125,14 +125,14 @@ async function read() {
   await uploadOrUpdateFile(lineRoutesJson, 'data/line-routes.json')
 }
 
-export function sortLines(lines) {
+function sortLines(lines) {
   return lines.sort(function (a, b) {
-    const numA = parseInt(a)
-    const numB = parseInt(b)
+    const numA = parseInt(a.displayLineNumber)
+    const numB = parseInt(b.displayLineNumber)
 
     // Extract non-numeric parts
-    const nonNumA = a.replace(/\d+/g, "") || ""
-    const nonNumB = b.replace(/\d+/g, "") || ""
+    const nonNumA = a.displayLineNumber.replace(/\d+/g, "") || ""
+    const nonNumB = b.displayLineNumber.replace(/\d+/g, "") || ""
 
     // Compare numeric parts
     if (numA !== numB) {
