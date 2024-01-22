@@ -103,20 +103,24 @@ async function read() {
   const linesJson = JSON.stringify(lines)
   const lineRoutesJson = JSON.stringify(lineRoutes)
 
-  fs.writeFile("./data/lines.json", linesJson, (err) => {
-    if (err) console.log(err)
-    else {
-      console.log("File ./data/lines.json written successfully\n")
-    }
-  })
+  /* Either write to file or upload to github */
 
-  fs.writeFile("./data/line-routes.json", lineRoutesJson, (err) => {
-    if (err) console.log(err)
-    else {
-      console.log("File ./data/line-routes.json written successfully\n")
-    }
-  })
+  // Write to file
+  // fs.writeFile("./data/lines.json", linesJson, (err) => {
+  //   if (err) console.log(err)
+  //   else {
+  //     console.log("File ./data/lines.json written successfully\n")
+  //   }
+  // })
 
+  // fs.writeFile("./data/line-routes.json", lineRoutesJson, (err) => {
+  //   if (err) console.log(err)
+  //   else {
+  //     console.log("File ./data/line-routes.json written successfully\n")
+  //   }
+  // })
+
+  // Upload to github
   await uploadOrUpdateFile(linesJson, 'data/lines.json')
   await uploadOrUpdateFile(lineRoutesJson, 'data/line-routes.json')
 }
