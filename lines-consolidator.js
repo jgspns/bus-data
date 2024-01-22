@@ -3,7 +3,7 @@ import fs from 'fs/promises'
 const username = 'jgspns'
 const accessToken = 'REDACTED'
 const repository = 'bus-data'
-const branch = 'main'
+const branch = 'master'
 
 async function uploadOrUpdateFile(data, filePath) {
 
@@ -12,7 +12,7 @@ async function uploadOrUpdateFile(data, filePath) {
 
   const content = Buffer.from(data).toString('base64')
   const body = {
-    message: new Date().toJSON(),
+    message: 'Uploaded by "lines-consolidator.js" - ' + new Date().toJSON(),
     content: content,
     branch: branch
   }
@@ -45,7 +45,10 @@ async function uploadOrUpdateFile(data, filePath) {
   })
 
   if (!updateResponse.ok) {
-    const errorMessage = `Failed to update/create file: ${updateResponse.status} ${updateResponse.statusText}`
+    const errorMessage = `
+      Failed to update/create file ${url} 
+      status: ${updateResponse.status} ${updateResponse.statusText}
+    `
     throw new Error(errorMessage)
   }
 
@@ -53,7 +56,6 @@ async function uploadOrUpdateFile(data, filePath) {
     Remote updated successfully: ${url}
     Raw url: ${rawUrl}
   `)
-  
 }
 
 async function read() {
@@ -108,8 +110,6 @@ async function read() {
     }
   })
 
-  await uploadOrUpdateFile(linesJson, 'data/lines.json')
-
   fs.writeFile("./data/line-routes.json", lineRoutesJson, (err) => {
     if (err) console.log(err)
     else {
@@ -117,6 +117,7 @@ async function read() {
     }
   })
 
+  await uploadOrUpdateFile(linesJson, 'data/lines.json')
   await uploadOrUpdateFile(lineRoutesJson, 'data/line-routes.json')
 }
 
