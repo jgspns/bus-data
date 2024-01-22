@@ -1,5 +1,5 @@
 import { ProxyAgent } from 'undici'
-import sampledStations from './sampled-stations.json' assert { type: 'json' }
+import sampledStations from './data/sampled-stations.json' assert { type: 'json' }
 import fs from 'fs'
 
 const encodedProxy = Buffer.from('aHR0cDovL2k5aXA3cGswNjI0NmhpMjo4YzJqYXowNHBjOXU3anJAcnAucHJveHlzY3JhcGUuY29tOjYwNjA=', 'base64').toString()
