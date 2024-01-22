@@ -2,7 +2,8 @@ import { ProxyAgent } from 'undici'
 import sampledStations from './sampled-stations.json' assert { type: 'json' }
 import fs from 'fs'
 
-const proxy = new ProxyAgent('http://i9ip7pk06246hi2:lf9mwf5utchyyc7@rp.proxyscrape.com:6060')
+const encodedProxy = Buffer.from('aHR0cDovL2k5aXA3cGswNjI0NmhpMjo4YzJqYXowNHBjOXU3anJAcnAucHJveHlzY3JhcGUuY29tOjYwNjA=', 'base64').toString()
+const proxy = new ProxyAgent(encodedProxy) // Crawler bot protection
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms))
@@ -44,26 +45,27 @@ while (true) {
     }
 
     let response 
-    
+    let data
+
     try {
       console.log(`${timestamp()} Scraping station ID=${stationId}`)
       response = await fetch("https://online.nsmart.rs/sr/najava-dolaska/", request)
+
+      if (!response.ok) {
+        console.log(`
+          ${timestamp()} Failed to scrape station ${stationId}. 
+          Error: ${response.status} - ${response.statusText}
+        `)
+        continue
+      }
+
+      data = await response.json()
+      console.log(`${timestamp()} Scraped station ID=${stationId} successfully`)
     }
     catch (error) {
       console.log(`${timestamp()} Failed to scrape station ID=${stationId}.  Error: ${error}`)
       continue
     }
-
-    if (!response.ok) {
-      console.log(`
-        ${timestamp()} Failed to scrape station ${stationId}. 
-        Error: ${response.status} - ${response.statusText}
-      `)
-      continue
-    }
-
-    const data = await response.json()
-    console.log(`${timestamp()} Scraped station ID=${stationId} successfully`)
 
     for (const line of data) {
 
