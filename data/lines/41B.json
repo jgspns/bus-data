@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 595,
+  "seconds_left": 941,
   "line_number": "10APT",
   "last_station_name": "Dolazni peron",
   "time_wanted": 3600,
@@ -15,7 +15,7 @@
   "departure": 0,
   "stations_between": 2,
   "direction": 0,
-  "garage_no": "1054",
+  "garage_no": "729",
   "line_title": "APTIV - ŽELEZNIČKA STANICA",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "41B",
   "vehicles": [
     {
-      "garageNo": "1054",
-      "lat": "45.21466660",
-      "lng": "19.80424000",
-      "station_number": "3",
-      "station_name": "Rumenačka-Kornelija Stankovića"
+      "garageNo": "729",
+      "lat": "45.28149000",
+      "lng": "19.79986830",
+      "station_number": "1",
+      "station_name": "Industrijska zona Aptiv-Jug"
     }
   ],
   "all_stations": [

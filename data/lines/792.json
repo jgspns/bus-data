@@ -1,20 +1,20 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 3536,
+  "seconds_left": 221,
   "line_number": "79",
-  "last_station_name": "Čerević 5-Spomenik",
+  "last_station_name": "MAS-Polazni Peron 14",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2070075987",
-  "stations_gpsy": "19.7212206796",
-  "station_name": "Beočin 5-Autobuska stanica",
+  "stations_gpsx": "45.2201191547",
+  "stations_gpsy": "19.6640154265",
+  "station_name": "Čerević 5-Spomenik",
   "price_table_ident": "price_l792_xx_xx_2023_12_01_1",
   "to_price": "Čerević (kroz Stari Rakovac) ",
   "id": "10161",
   "actual_line_number": "792",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 28,
-  "direction": 0,
+  "stations_between": 1,
+  "direction": 1,
   "garage_no": "989",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - ČEREVIĆ",
   "on_first_station_flag": 0,
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "989",
-      "lat": "45.22014160",
-      "lng": "19.82678330",
-      "station_number": "8",
-      "station_name": "Sremska Kamenica-Ledinački put-Šimširova"
+      "lat": "45.21624000",
+      "lng": "19.67452660",
+      "station_number": "45",
+      "station_name": "Čerević 4-Podunavlje"
     }
   ],
   "all_stations": [
@@ -13601,7 +13601,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 7069,
+  "station_uid": 7084,
   "line_route": [
     "19.828695,45.264157,0,00:00:03",
     "19.828726,45.264151,0,00:00:05",

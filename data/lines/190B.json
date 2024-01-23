@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1301,
+  "seconds_left": 367,
   "line_number": "19",
   "last_station_name": "Železnička stanica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "190B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 7,
+  "stations_between": 5,
   "direction": 0,
-  "garage_no": "714",
+  "garage_no": "724",
   "line_title": "ŽELEZNIČKA STANICA - RTV - MIŠELUK (BOLNICA)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "190B",
   "vehicles": [
     {
-      "garageNo": "714",
-      "lat": "45.26524000",
-      "lng": "19.83112830",
-      "station_number": "9",
-      "station_name": "Železnička stanica"
+      "garageNo": "724",
+      "lat": "45.24998330",
+      "lng": "19.83815990",
+      "station_number": "5",
+      "station_name": "Bulevar oslobođenja-Maksima Gorkog"
     }
   ],
   "all_stations": [

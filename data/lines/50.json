@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1696,
+  "seconds_left": 247,
   "line_number": "5",
   "last_station_name": "Temerinski put-Nadvožnjak-Okretnica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "50",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 14,
+  "stations_between": 9,
   "direction": 1,
-  "garage_no": "729",
+  "garage_no": "744",
   "line_title": "TEMERINSKI PUT - CENTAR - AVIJATIČARSKO NASELJE",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "50",
   "vehicles": [
     {
-      "garageNo": "729",
-      "lat": "45.27690500",
-      "lng": "19.83863330",
-      "station_number": "8",
-      "station_name": "Temerinska-Vidovdansko naselje"
+      "garageNo": "744",
+      "lat": "45.25497000",
+      "lng": "19.84176830",
+      "station_number": "13",
+      "station_name": "Uspenska-Šafarikova"
     }
   ],
   "all_stations": [

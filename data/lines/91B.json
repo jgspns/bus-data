@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 3056,
+  "seconds_left": 839,
   "line_number": "9A",
   "last_station_name": "Novo naselje-Kružni tok",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "91B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 25,
+  "stations_between": 12,
   "direction": 0,
-  "garage_no": "1092",
+  "garage_no": "960",
   "line_title": "NOVO NASELJE - LIMAN - PETROVARADIN",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "91B",
   "vehicles": [
     {
-      "garageNo": "1092",
-      "lat": "45.24819330",
-      "lng": "19.78664490",
-      "station_number": "27",
-      "station_name": "Novo naselje-Kružni tok"
+      "garageNo": "960",
+      "lat": "45.24159160",
+      "lng": "19.83141990",
+      "station_number": "15",
+      "station_name": "Bulevar Cara Lazara-Dom zdravlja"
     }
   ],
   "all_stations": [

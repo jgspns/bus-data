@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 467,
+  "seconds_left": 641,
   "line_number": "7A",
   "last_station_name": "Novo Naselje - Kružni tok",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "70",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
+  "stations_between": 6,
   "direction": 0,
-  "garage_no": "964",
+  "garage_no": "793",
   "line_title": "NOVO NASELJE - ŽELEZNIČKA STANICA - FUTOŠKA PIJACA-LIMAN 4 - NOVO NASELJE ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "70",
   "vehicles": [
     {
-      "garageNo": "964",
-      "lat": "45.24946330",
-      "lng": "19.79383490",
-      "station_number": "3",
-      "station_name": "Bulevar Jovana Dučića - Igralište"
+      "garageNo": "793",
+      "lat": "45.24884160",
+      "lng": "19.78652000",
+      "station_number": "1",
+      "station_name": "Novo Naselje - Kružni tok"
     }
   ],
   "all_stations": [

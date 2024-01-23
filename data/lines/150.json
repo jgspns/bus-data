@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1332,
+  "seconds_left": 29,
   "line_number": "15",
   "last_station_name": "Uspenska - Šafarikova",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "150",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 11,
+  "stations_between": 0,
   "direction": 1,
   "garage_no": "987",
   "line_title": "CENTAR - INDUSTRIJSKA ZONA SEVER",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "987",
-      "lat": "45.26133000",
-      "lng": "19.83191830",
-      "station_number": "4",
-      "station_name": "Bulevar Oslobođenja - Bulevar Kralja Petra I"
+      "lat": "45.28889330",
+      "lng": "19.78986660",
+      "station_number": "15",
+      "station_name": "Primorska - Neoplanta Okretnica"
     }
   ],
   "all_stations": [

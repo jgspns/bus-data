@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 748,
+  "seconds_left": 2504,
   "line_number": "24",
   "last_station_name": "Kovilj - Okretnica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "240B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 5,
+  "stations_between": 23,
   "direction": 1,
-  "garage_no": "972",
+  "garage_no": "1061",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - KOVILJ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "240B",
   "vehicles": [
     {
-      "garageNo": "972",
-      "lat": "45.30878160",
-      "lng": "19.88985000",
-      "station_number": "19",
-      "station_name": "Put Novi Sad - Zrenjanin - Auto Salon KIA"
+      "garageNo": "1061",
+      "lat": "45.22390160",
+      "lng": "20.03938000",
+      "station_number": "1",
+      "station_name": "Kovilj - Okretnica"
     }
   ],
   "all_stations": [

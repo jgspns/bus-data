@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 563,
+  "seconds_left": 1226,
   "line_number": "15NK",
   "last_station_name": "Uspenska-Pozorišni trg",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2548310184",
-  "stations_gpsy": "19.8422275245",
-  "station_name": "Uspenska-Pozorišni trg",
+  "stations_gpsx": "45.2688175681",
+  "stations_gpsy": "19.8317732329",
+  "station_name": "Sentandrejski put-Partizanska Lukoil",
   "price_table_ident": "price_l154B_xx_xx_2023_12_01_1",
   "to_price": "Centar",
   "id": "10634",
   "actual_line_number": "154B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
+  "stations_between": 8,
   "direction": 0,
-  "garage_no": "1030",
+  "garage_no": "1061",
   "line_title": "CENTAR - INDUSTRIJSKA ZONA SEVER NEOPLANTA/KOTEKS",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "154B",
   "vehicles": [
     {
-      "garageNo": "1030",
-      "lat": "45.26684830",
-      "lng": "19.83402990",
-      "station_number": "10",
-      "station_name": "Sentandrejski put-Partizanska"
+      "garageNo": "1061",
+      "lat": "45.29442990",
+      "lng": "19.79589490",
+      "station_number": "2",
+      "station_name": "Koteksprodukt-Okretnica"
     }
   ],
   "all_stations": [
@@ -4748,7 +4748,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 11680,
+  "station_uid": 6740,
   "line_route": [
     "19.790113,45.288895,0,00:00:02",
     "19.790355,45.28884,0,00:00:03",

@@ -1,8 +1,8 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 567,
+  "seconds_left": 2864,
   "line_number": "53",
-  "last_station_name": "Železnička Stanica",
+  "last_station_name": "Futog - Aroma - Okretnica",
   "time_wanted": 3600,
   "stations_gpsx": "45.2646700000",
   "stations_gpsy": "19.8307840000",
@@ -13,9 +13,9 @@
   "actual_line_number": "530B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 5,
-  "direction": 0,
-  "garage_no": "1071",
+  "stations_between": 27,
+  "direction": 1,
+  "garage_no": "1081",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (STARI)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "530B",
   "vehicles": [
     {
-      "garageNo": "1071",
-      "lat": "45.24815330",
-      "lng": "19.81466500",
-      "station_number": "24",
-      "station_name": "Futoška - Higijenski Zavod"
+      "garageNo": "1081",
+      "lat": "45.26447830",
+      "lng": "19.82961500",
+      "station_number": "29",
+      "station_name": "Železnička Stanica"
     }
   ],
   "all_stations": [

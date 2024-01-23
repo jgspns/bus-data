@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 3019,
+  "seconds_left": 1316,
   "line_number": "61",
   "last_station_name": "MAS - Polazni Peron 13",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "611",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 14,
+  "stations_between": 6,
   "direction": 1,
   "garage_no": "980",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (VINOGRADARSKA)",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "980",
-      "lat": "45.26409330",
-      "lng": "19.82853160",
-      "station_number": "1",
-      "station_name": "MAS - Polazni Peron 13"
+      "lat": "45.24599660",
+      "lng": "19.87984830",
+      "station_number": "9",
+      "station_name": "Preradovićeva - Reljkovićeva"
     }
   ],
   "all_stations": [

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 57,
+  "seconds_left": 863,
   "line_number": "15",
   "last_station_name": "Uspenska - Pozorišni Trg",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "150B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 1,
+  "stations_between": 7,
   "direction": 0,
-  "garage_no": "1070",
+  "garage_no": "987",
   "line_title": "CENTAR - INDUSTRIJSKA ZONA SEVER",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "150B",
   "vehicles": [
     {
-      "garageNo": "1070",
-      "lat": "45.27485830",
-      "lng": "19.82980330",
-      "station_number": "8",
-      "station_name": "Sentandrejski Put - Benziska Pumpa"
+      "garageNo": "987",
+      "lat": "45.24563660",
+      "lng": "19.79338330",
+      "station_number": "12",
+      "station_name": "Bulevar Oslobođenja - Novosadskog Sajma"
     }
   ],
   "all_stations": [

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1598,
+  "seconds_left": 349,
   "line_number": "71",
   "last_station_name": "Sremska Kamenica-Bocke-Okretnica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "711",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 9,
+  "stations_between": 5,
   "direction": 0,
-  "garage_no": "1068",
+  "garage_no": "1077",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "711",
   "vehicles": [
     {
-      "garageNo": "1068",
-      "lat": "45.24116500",
-      "lng": "19.84285990",
-      "station_number": "7",
-      "station_name": "Bulevar oslobođenja-Most slobode"
+      "garageNo": "1077",
+      "lat": "45.22149660",
+      "lng": "19.84803160",
+      "station_number": "11",
+      "station_name": "Moše Pijade-Škola policije"
     }
   ],
   "all_stations": [

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 530,
+  "seconds_left": 343,
   "line_number": "16",
   "last_station_name": "Bulevar Jaše Tomića-Bulevar oslobođenja",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "160",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
+  "stations_between": 3,
   "direction": 1,
-  "garage_no": "830",
+  "garage_no": "738",
   "line_title": "ŽELEZNIČKA STANICA - PRISTANIŠNA ZONA",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "160",
   "vehicles": [
     {
-      "garageNo": "830",
-      "lat": "45.26531160",
-      "lng": "19.86049000",
-      "station_number": "6",
-      "station_name": "Bajči Žilinskog-Luka Novi Sad za NS"
+      "garageNo": "738",
+      "lat": "45.26948330",
+      "lng": "19.83410330",
+      "station_number": "2",
+      "station_name": "Kisačka-Podvožnjak"
     }
   ],
   "all_stations": [

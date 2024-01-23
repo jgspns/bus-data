@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 164,
+  "seconds_left": 630,
   "line_number": "11B",
   "last_station_name": "Bulevar Jaše Tomića-Bulevar oslobođenja",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "112",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 0,
+  "stations_between": 6,
   "direction": 1,
-  "garage_no": "1097",
+  "garage_no": "1091",
   "line_title": "ŽELEZNIČKA STANICA - LIMAN - BOLNICA - ŽELEZNIČKA STANICA",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "112",
   "vehicles": [
     {
-      "garageNo": "1097",
-      "lat": "45.26451160",
-      "lng": "19.82975830",
-      "station_number": "23",
-      "station_name": "Železnička stanica 11"
+      "garageNo": "1091",
+      "lat": "45.24423490",
+      "lng": "19.82520660",
+      "station_number": "17",
+      "station_name": "Cara Dušana-Medicinska škola"
     }
   ],
   "all_stations": [

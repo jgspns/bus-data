@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1521,
+  "seconds_left": 3029,
   "line_number": "79",
   "last_station_name": "Čerević 5-Spomenik",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2201191547",
-  "stations_gpsy": "19.6640154265",
-  "station_name": "Čerević 5-Spomenik",
+  "stations_gpsx": "45.2070075987",
+  "stations_gpsy": "19.7212206796",
+  "station_name": "Beočin 5-Autobuska stanica",
   "price_table_ident": "price_l790_xx_xx_2023_12_01_1",
   "to_price": "Čerević",
   "id": "9964",
   "actual_line_number": "790",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 8,
+  "stations_between": 17,
   "direction": 0,
-  "garage_no": "1084",
+  "garage_no": "982",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - ČEREVIĆ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "790",
   "vehicles": [
     {
-      "garageNo": "1084",
-      "lat": "45.20661000",
-      "lng": "19.71321660",
-      "station_number": "22",
-      "station_name": "Beočin 6 - Beočinska fabrika cementa"
+      "garageNo": "982",
+      "lat": "45.24105160",
+      "lng": "19.84289660",
+      "station_number": "4",
+      "station_name": "Bulevar oslobođenja-Most slobode"
     }
   ],
   "all_stations": [
@@ -11192,7 +11192,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 7084,
+  "station_uid": 7069,
   "line_route": [
     "19.828608,45.264092,0,00:00:03",
     "19.828682,45.264106,0,00:00:05",

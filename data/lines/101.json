@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 884,
+  "seconds_left": 346,
   "line_number": "10APT",
   "last_station_name": "Železnička Stanica Terminal",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "101",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 2,
+  "stations_between": 1,
   "direction": 1,
   "garage_no": "791",
   "line_title": "CENTAR - INDUSTRIJSKA ZONA JUG",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "791",
-      "lat": "45.26544330",
-      "lng": "19.83107000",
-      "station_number": "1",
-      "station_name": "Železnička Stanica Terminal"
+      "lat": "45.27058830",
+      "lng": "19.80861160",
+      "station_number": "3",
+      "station_name": "Rumenački Put - Avijatičarska"
     }
   ],
   "all_stations": [

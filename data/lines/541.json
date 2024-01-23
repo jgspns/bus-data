@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 785,
+  "seconds_left": 1538,
   "line_number": "54ZA",
-  "last_station_name": "Futog - Aroma - Okretnica",
+  "last_station_name": "Železnička Stanica Terminal",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2502490000",
-  "stations_gpsy": "19.7005280000",
-  "station_name": "Futog-Milan Vidak-Okretnica",
+  "stations_gpsx": "45.2454885200",
+  "stations_gpsy": "19.6902144128",
+  "station_name": "Futog-Aroma-Okretnica",
   "price_table_ident": "price_l541_xx_xx_2023_12_01_1",
   "to_price": "Futog (Železničkom do Arome)",
   "id": "10114",
   "actual_line_number": "541",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
-  "direction": 0,
-  "garage_no": "938",
+  "stations_between": 10,
+  "direction": 1,
+  "garage_no": "836",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (GRMEČKA)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "541",
   "vehicles": [
     {
-      "garageNo": "938",
-      "lat": "45.24652160",
-      "lng": "19.73705500",
-      "station_number": "19",
-      "station_name": "Veternik - Zavod Za Decu"
+      "garageNo": "836",
+      "lat": "45.24705000",
+      "lng": "19.73991500",
+      "station_number": "18",
+      "station_name": "Veternik - Ive Lole Ribara 68"
     }
   ],
   "all_stations": [
@@ -7723,7 +7723,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 6990,
+  "station_uid": 6974,
   "line_route": [
     "19.830429,45.264897,0,00:00:00",
     "19.830491,45.264899,0,00:00:01",

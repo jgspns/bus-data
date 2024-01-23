@@ -1,12 +1,12 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 207,
+  "seconds_left": 120,
   "line_number": "54AZ",
   "last_station_name": "Železnička Stanica",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2487425435",
-  "stations_gpsy": "19.8176482873",
-  "station_name": "Futoška-Higijenski zavod",
+  "stations_gpsx": "45.2646700000",
+  "stations_gpsy": "19.8307840000",
+  "station_name": "Dolazni peron",
   "price_table_ident": "price_l541B_xx_xx_2023_12_01_1",
   "to_price": "Novi Sad (Železnička stanica)",
   "id": "10118",
@@ -15,7 +15,7 @@
   "departure": 0,
   "stations_between": 1,
   "direction": 0,
-  "garage_no": "1007",
+  "garage_no": "836",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (GRMEČKA)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "541B",
   "vehicles": [
     {
-      "garageNo": "1007",
-      "lat": "45.24738500",
-      "lng": "19.80524500",
-      "station_number": "24",
-      "station_name": "Futoški Put - Vršačka"
+      "garageNo": "836",
+      "lat": "45.26003160",
+      "lng": "19.83255160",
+      "station_number": "29",
+      "station_name": "Bulevar Oslobođenja - Bulevar Kralja Petra I"
     }
   ],
   "all_stations": [
@@ -6795,7 +6795,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 6529,
+  "station_uid": 7152,
   "line_route": [
     "19.690293,45.245479,0,00:00:05",
     "19.690332,45.245312,0,00:00:10",

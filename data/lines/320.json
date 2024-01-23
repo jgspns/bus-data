@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 199,
+  "seconds_left": 1457,
   "line_number": "32",
-  "last_station_name": "MAS - Polazni Peron 13",
+  "last_station_name": "Temerin IX - Almaška - Okretnica",
   "time_wanted": 3600,
-  "stations_gpsx": "45.4341139350",
-  "stations_gpsy": "19.8987726690",
-  "station_name": "Temerin 9-Almaška-Okretnica",
+  "stations_gpsx": "45.4280075649",
+  "stations_gpsy": "19.8958076131",
+  "station_name": "Temerin 8-Kiš Ferenca",
   "price_table_ident": "price_l320_xx_xx_2023_12_01_1",
   "to_price": "Temerin",
   "id": "9958",
   "actual_line_number": "320",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 2,
-  "direction": 1,
-  "garage_no": "1064",
+  "stations_between": 13,
+  "direction": 0,
+  "garage_no": "936",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - TEMERIN",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "320",
   "vehicles": [
     {
-      "garageNo": "1064",
-      "lat": "45.42262160",
-      "lng": "19.89386000",
-      "station_number": "22",
-      "station_name": "Temerin VII - Telep"
+      "garageNo": "936",
+      "lat": "45.33494660",
+      "lng": "19.84854330",
+      "station_number": "10",
+      "station_name": "Rimski Šančevi - Elektro istok"
     }
   ],
   "all_stations": [
@@ -4070,7 +4070,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 7171,
+  "station_uid": 7170,
   "line_route": [
     "19.828687,45.264235,0,00:00:02",
     "19.828773,45.264198,0,00:00:05",

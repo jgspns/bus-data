@@ -1,19 +1,19 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1729,
+  "seconds_left": 310,
   "line_number": "55NK",
   "last_station_name": "Koteksprodukt - Okretnica",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2895220000",
-  "stations_gpsy": "19.7882320000",
-  "station_name": "Primorska-Neoplanta Okretnica",
+  "stations_gpsx": "45.2943042528",
+  "stations_gpsy": "19.7958119784",
+  "station_name": "Koteksprodukt-Okretnica",
   "price_table_ident": "price_l551B_xx_xx_2023_12_01_1",
   "to_price": "Albus/Neoplanta",
   "id": "10121",
   "actual_line_number": "551B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 11,
+  "stations_between": 1,
   "direction": 0,
   "garage_no": "1052",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (BRAĆE BOŠNJAK)",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "1052",
-      "lat": "45.25704000",
-      "lng": "19.80166660",
-      "station_number": "30",
-      "station_name": "Bulevar Vojvode Stepe - Bulevar Slobodana Jovanovića"
+      "lat": "45.28903500",
+      "lng": "19.78966500",
+      "station_number": "41",
+      "station_name": "Primorska - Neoplanta Okretnica"
     }
   ],
   "all_stations": [
@@ -7761,7 +7761,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 6609,
+  "station_uid": 6610,
   "line_route": [
     "19.690183,45.245753,0,00:00:00",
     "19.690256,45.245507,0,00:00:04",

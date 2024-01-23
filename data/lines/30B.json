@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 572,
+  "seconds_left": 108,
   "line_number": "3",
   "last_station_name": "Janka Čmelika - Oblačića Rada",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "30B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 10,
+  "stations_between": 3,
   "direction": 1,
-  "garage_no": "958",
+  "garage_no": "714",
   "line_title": "PETROVARADIN - CENTAR - DETELINARA",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "30B",
   "vehicles": [
     {
-      "garageNo": "958",
-      "lat": "45.25806330",
-      "lng": "19.84191660",
-      "station_number": "10",
-      "station_name": "Uspenska - Šafarikova"
+      "garageNo": "714",
+      "lat": "45.24842000",
+      "lng": "19.87723830",
+      "station_number": "16",
+      "station_name": "Preradovićeva - Reljkovićeva"
     }
   ],
   "all_stations": [

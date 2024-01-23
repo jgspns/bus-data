@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 280,
+  "seconds_left": 718,
   "line_number": "41",
   "last_station_name": "Dolazni peron",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "410B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 1,
+  "stations_between": 4,
   "direction": 0,
-  "garage_no": "838",
+  "garage_no": "746",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - RUMENKA",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "410B",
   "vehicles": [
     {
-      "garageNo": "838",
-      "lat": "45.26433000",
-      "lng": "19.81675660",
-      "station_number": "14",
-      "station_name": "Bulevar Jaše Tomića-Rumenačka"
+      "garageNo": "746",
+      "lat": "45.27548830",
+      "lng": "19.80031000",
+      "station_number": "11",
+      "station_name": "Rumenački put-Kružni tok"
     }
   ],
   "all_stations": [

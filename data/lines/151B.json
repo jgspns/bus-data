@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 2382,
+  "seconds_left": 2374,
   "line_number": "15",
   "last_station_name": "Kornelija Stankovića-Bulevar Evrope",
   "time_wanted": 3600,
@@ -15,7 +15,7 @@
   "departure": 0,
   "stations_between": 7,
   "direction": 0,
-  "garage_no": "1021",
+  "garage_no": "1031",
   "line_title": "LIDL - INDUSTRIJSKA ZONA SEVER",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,9 +26,9 @@
   "main_line_number": "151B",
   "vehicles": [
     {
-      "garageNo": "1021",
-      "lat": "45.23408000",
-      "lng": "19.78435330",
+      "garageNo": "1031",
+      "lat": "45.23403490",
+      "lng": "19.78433330",
       "station_number": "7",
       "station_name": "Bulevar Jovana Dučića-Bate Brkića"
     }

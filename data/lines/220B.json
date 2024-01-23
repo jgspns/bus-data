@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 914,
+  "seconds_left": 493,
   "line_number": "22",
   "last_station_name": "Kać - Okretnica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "220B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
+  "stations_between": 3,
   "direction": 1,
-  "garage_no": "1062",
+  "garage_no": "974",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - KAĆ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "220B",
   "vehicles": [
     {
-      "garageNo": "1062",
-      "lat": "45.28469160",
-      "lng": "19.85156830",
-      "station_number": "11",
-      "station_name": "Naftagas"
+      "garageNo": "974",
+      "lat": "45.27031330",
+      "lng": "19.84239000",
+      "station_number": "12",
+      "station_name": "Temerinska - Partizanska"
     }
   ],
   "all_stations": [

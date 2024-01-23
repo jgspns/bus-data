@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 846,
+  "seconds_left": 860,
   "line_number": "33",
   "last_station_name": "MAS - Polazni Peron 13",
   "time_wanted": 3600,
@@ -27,8 +27,8 @@
   "vehicles": [
     {
       "garageNo": "929",
-      "lat": "45.40268660",
-      "lng": "19.88559330",
+      "lat": "45.40201830",
+      "lng": "19.88533830",
       "station_number": "18",
       "station_name": "Temerin III - Železnička Rampa"
     }

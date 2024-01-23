@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 310,
+  "seconds_left": 1329,
   "line_number": "13",
   "last_station_name": "Janka Čmelika - Oblačića Rada",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "130",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 2,
+  "stations_between": 11,
   "direction": 1,
-  "garage_no": "1022",
+  "garage_no": "991",
   "line_title": "DETELINARA - LIMAN - UNIVERZITET",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "130",
   "vehicles": [
     {
-      "garageNo": "1022",
-      "lat": "45.24283000",
-      "lng": "19.83758160",
-      "station_number": "10",
-      "station_name": "Bulevar Cara Lazara - Šekspirova"
+      "garageNo": "991",
+      "lat": "45.26533830",
+      "lng": "19.83072000",
+      "station_number": "2",
+      "station_name": "Janka Čmelika - Dečije Obdanište"
     }
   ],
   "all_stations": [

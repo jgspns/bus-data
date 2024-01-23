@@ -1,20 +1,20 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1547,
+  "seconds_left": 1009,
   "line_number": "61",
-  "last_station_name": "MAS - Dolazni Peron",
+  "last_station_name": "Vinogradarska - Mitropolita Stratimirovića Okretnica",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2513621340",
-  "stations_gpsy": "19.8732820552",
-  "station_name": "Preradovićeva-Šenoina",
+  "stations_gpsx": "45.2646698037",
+  "stations_gpsy": "19.8292532816",
+  "station_name": "MAS-Dolazni Peron",
   "price_table_ident": "price_l614B_xx_xx_2023_12_01_1",
   "to_price": "Novi Sad (Autobuska stanica)",
   "id": "10183",
   "actual_line_number": "614B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 7,
-  "direction": 0,
+  "stations_between": 6,
+  "direction": 1,
   "garage_no": "826",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (VINOGRADARSKA)",
   "on_first_station_flag": 0,
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "826",
-      "lat": "45.20417000",
-      "lng": "19.93468160",
-      "station_number": "4",
-      "station_name": "Sremski Karlovci  IV – Centar - Okretnica"
+      "lat": "45.25460830",
+      "lng": "19.86372330",
+      "station_number": "13",
+      "station_name": "Beogradska - Vladimira Nazora"
     }
   ],
   "all_stations": [
@@ -4088,7 +4088,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 6481,
+  "station_uid": 6823,
   "line_route": [
     "19.942286,45.19851,0,00:00:00",
     "19.941937,45.19867,0,00:00:08",

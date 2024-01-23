@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 736,
+  "seconds_left": 375,
   "line_number": "16",
   "last_station_name": "Železnička Stanica",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2646700000",
-  "stations_gpsy": "19.8307840000",
-  "station_name": "Dolazni peron",
+  "stations_gpsx": "45.2688175681",
+  "stations_gpsy": "19.8317732329",
+  "station_name": "Sentandrejski put-Partizanska Lukoil",
   "price_table_ident": "price_l160B_xx_xx_2023_12_01_1",
   "to_price": "Železnička stanica",
   "id": "10024",
   "actual_line_number": "160B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 5,
+  "stations_between": 4,
   "direction": 0,
-  "garage_no": "1075",
+  "garage_no": "830",
   "line_title": "ŽELEZNIČKA STANICA - PRISTANIŠNA ZONA",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "160B",
   "vehicles": [
     {
-      "garageNo": "1075",
-      "lat": "45.29186330",
-      "lng": "19.96108160",
-      "station_number": "1",
-      "station_name": "Bajči Žilinskog - Hleb"
+      "garageNo": "830",
+      "lat": "45.28380330",
+      "lng": "19.85156330",
+      "station_number": "4",
+      "station_name": "Azotara"
     }
   ],
   "all_stations": [
@@ -844,7 +844,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 7152,
+  "station_uid": 6740,
   "line_route": [
     "19.8587,45.265883,0,00:00:07,",
     "19.858561,45.265932,0,00:00:14,",

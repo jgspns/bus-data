@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 322,
+  "seconds_left": 510,
   "line_number": "84",
   "last_station_name": "Lug III - Centar",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "842B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 1,
+  "stations_between": 2,
   "direction": 1,
   "garage_no": "984",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - LUG",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "984",
-      "lat": "45.25379160",
-      "lng": "19.83604990",
-      "station_number": "61",
-      "station_name": "Bulevar Oslobođenja - Futoška Pijaca"
+      "lat": "45.24658000",
+      "lng": "19.84007500",
+      "station_number": "60",
+      "station_name": "Bulevar Oslobođenja - Narodnog Fronta"
     }
   ],
   "all_stations": [

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1601,
+  "seconds_left": 558,
   "line_number": "21",
   "last_station_name": "Bulevar Jaše Tomića-Bulevar oslobođenja",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "210",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 12,
+  "stations_between": 6,
   "direction": 1,
-  "garage_no": "985",
+  "garage_no": "1082",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "210",
   "vehicles": [
     {
-      "garageNo": "985",
-      "lat": "45.26521660",
-      "lng": "19.82969500",
-      "station_number": "1",
-      "station_name": "Bulevar Jaše Tomića-Bulevar oslobođenja"
+      "garageNo": "1082",
+      "lat": "45.27931660",
+      "lng": "19.85099330",
+      "station_number": "8",
+      "station_name": "Put Šajkaškog Odreda - Butangas"
     }
   ],
   "all_stations": [

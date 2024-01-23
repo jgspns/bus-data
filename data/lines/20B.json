@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 581,
+  "seconds_left": 182,
   "line_number": "2",
   "last_station_name": "Novo Naselje - Kružni tok",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "20B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 5,
+  "stations_between": 3,
   "direction": 1,
-  "garage_no": "1063",
+  "garage_no": "1009",
   "line_title": "CENTAR - NOVO NASELJE",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "20B",
   "vehicles": [
     {
-      "garageNo": "1063",
-      "lat": "45.24776660",
-      "lng": "19.81097830",
-      "station_number": "10",
-      "station_name": "Futoški Put - Vršačka"
+      "garageNo": "1009",
+      "lat": "45.24909500",
+      "lng": "19.83006000",
+      "station_number": "13",
+      "station_name": "Futoška - Antona Čehova"
     }
   ],
   "all_stations": [
@@ -2996,7 +2996,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 11680,
+  "station_uid": "11680",
   "line_route": [
     "19.786084,45.248197,0,00:00:00",
     "19.7873,45.247996,0,00:00:04",

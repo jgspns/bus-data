@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 301,
+  "seconds_left": 817,
   "line_number": "1GL",
   "last_station_name": "Štrand-Okretnica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "11B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
+  "stations_between": 15,
   "direction": 1,
-  "garage_no": "974",
+  "garage_no": "1064",
   "line_title": "KLISA - CENTAR - LIMAN 1",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "11B",
   "vehicles": [
     {
-      "garageNo": "974",
-      "lat": "45.30477830",
-      "lng": "19.82208160",
-      "station_number": "18",
-      "station_name": "Proleterska-Iveco"
+      "garageNo": "1064",
+      "lat": "45.26576000",
+      "lng": "19.83559990",
+      "station_number": "9",
+      "station_name": "Kisačka-Podvožnjak"
     }
   ],
   "all_stations": [

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 483,
+  "seconds_left": 643,
   "line_number": "14",
   "last_station_name": "Sajlovo - Krajnja",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "140B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 6,
+  "stations_between": 9,
   "direction": 1,
-  "garage_no": "1016",
+  "garage_no": "1017",
   "line_title": "CENTAR - SAJLOVO",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "140B",
   "vehicles": [
     {
-      "garageNo": "1016",
-      "lat": "45.26432830",
-      "lng": "19.81672830",
-      "station_number": "9",
-      "station_name": "Rumenačka - Kornelija Stankovića"
+      "garageNo": "1017",
+      "lat": "45.27756830",
+      "lng": "19.79622500",
+      "station_number": "5",
+      "station_name": "Rumenački Put - Gradsko Groblje"
     }
   ],
   "all_stations": [
@@ -3768,7 +3768,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 11680,
+  "station_uid": "11680",
   "line_route": [
     "19.779706,45.271866,0,00:00:05",
     "19.779494,45.27199,0,00:00:10",

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 162,
+  "seconds_left": 255,
   "line_number": "80",
   "last_station_name": "Beočin V - Autobuska Stanica",
   "time_wanted": 3600,
@@ -15,7 +15,7 @@
   "departure": 0,
   "stations_between": 1,
   "direction": 1,
-  "garage_no": "931",
+  "garage_no": "729",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - BEOČIN (AUTOBUSKA STANICA)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "800B",
   "vehicles": [
     {
-      "garageNo": "931",
-      "lat": "45.26038160",
-      "lng": "19.83247330",
-      "station_number": "20",
-      "station_name": "Bulevar Oslobođenja - Bulevar Kralja Petra I"
+      "garageNo": "729",
+      "lat": "45.25623990",
+      "lng": "19.83458000",
+      "station_number": "19",
+      "station_name": "Bulevar Oslobođenja - Futoška Pijaca"
     }
   ],
   "all_stations": [

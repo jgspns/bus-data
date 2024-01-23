@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1293,
+  "seconds_left": 287,
   "line_number": "84",
-  "last_station_name": "Lug 3-Centar",
+  "last_station_name": "MAS-Polazni Peron 14",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2201191547",
-  "stations_gpsy": "19.6640154265",
-  "station_name": "Čerević 5-Spomenik",
+  "stations_gpsx": "45.1810098910",
+  "stations_gpsy": "19.5454741891",
+  "station_name": "Lug 3-Centar",
   "price_table_ident": "price_l841_xx_xx_2023_12_01_1",
   "to_price": "Lug (kroz Grabovo)",
   "id": "9969",
   "actual_line_number": "841",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 7,
-  "direction": 0,
-  "garage_no": "820",
+  "stations_between": 2,
+  "direction": 1,
+  "garage_no": "1018",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - LUG",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "841",
   "vehicles": [
     {
-      "garageNo": "820",
-      "lat": "45.21368160",
-      "lng": "19.71375660",
-      "station_number": "23",
-      "station_name": "Beočin 7-Raskrsnica Izlaz"
+      "garageNo": "1018",
+      "lat": "45.19147160",
+      "lng": "19.54068660",
+      "station_number": "61",
+      "station_name": "Lug 1- Česma"
     }
   ],
   "all_stations": [
@@ -15273,7 +15273,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 7084,
+  "station_uid": "7110",
   "line_route": [
     "19.82877,45.264142,0,00:00:01",
     "19.828887,45.264164,0,00:00:02",

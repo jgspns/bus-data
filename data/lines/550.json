@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1702,
+  "seconds_left": 836,
   "line_number": "55",
   "last_station_name": "Futog-Aroma-Okretnica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "550",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 15,
+  "stations_between": 9,
   "direction": 0,
-  "garage_no": "1010",
+  "garage_no": "1066",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (BRAĆE BOŠNJAK)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "550",
   "vehicles": [
     {
-      "garageNo": "1010",
-      "lat": "45.24979000",
-      "lng": "19.75381500",
-      "station_number": "16",
-      "station_name": "Veternik-Mesna zajednica"
+      "garageNo": "1066",
+      "lat": "45.23789830",
+      "lng": "19.72636830",
+      "station_number": "23",
+      "station_name": "Futog-Cara Lazara-Svetozara Markovića"
     }
   ],
   "all_stations": [

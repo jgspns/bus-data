@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1736,
+  "seconds_left": 990,
   "line_number": "64",
   "last_station_name": "Železnička Stanica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "640B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 12,
+  "stations_between": 6,
   "direction": 0,
-  "garage_no": "837",
+  "garage_no": "1076",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - BUKOVAC",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "640B",
   "vehicles": [
     {
-      "garageNo": "837",
-      "lat": "45.19180500",
-      "lng": "19.89452830",
-      "station_number": "1",
-      "station_name": "Bukovac - Okretnica"
+      "garageNo": "1076",
+      "lat": "45.21414660",
+      "lng": "19.89140660",
+      "station_number": "7",
+      "station_name": "Bukovac - Vinogradi"
     }
   ],
   "all_stations": [

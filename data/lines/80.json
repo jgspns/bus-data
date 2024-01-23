@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 814,
+  "seconds_left": 803,
   "line_number": "8",
   "last_station_name": "Novo Naselje - Kružni tok",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "80",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 8,
+  "stations_between": 9,
   "direction": 1,
-  "garage_no": "965",
+  "garage_no": "966",
   "line_title": "NOVO NASELJE - CENTAR - LIMAN 1",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "80",
   "vehicles": [
     {
-      "garageNo": "965",
-      "lat": "45.26178000",
-      "lng": "19.83619160",
-      "station_number": "14",
-      "station_name": "Bulevar Kralja Petra I - Dom Zdravlja ZOV"
+      "garageNo": "966",
+      "lat": "45.26007990",
+      "lng": "19.83036830",
+      "station_number": "13",
+      "station_name": "Bulevar Kralja Petra I - Bulevar Oslobođenja"
     }
   ],
   "all_stations": [

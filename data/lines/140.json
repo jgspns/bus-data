@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 631,
+  "seconds_left": 874,
   "line_number": "14",
   "last_station_name": "Uspenska - Šafarikova",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "140",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 12,
+  "stations_between": 14,
   "direction": 1,
-  "garage_no": "1016",
+  "garage_no": "1017",
   "line_title": "CENTAR - SAJLOVO",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "140",
   "vehicles": [
     {
-      "garageNo": "1016",
-      "lat": "45.26131660",
-      "lng": "19.83185160",
-      "station_number": "4",
-      "station_name": "Bulevar Oslobođenja - Bulevar Kralja Petra I"
+      "garageNo": "1017",
+      "lat": "45.25509160",
+      "lng": "19.84153000",
+      "station_number": "1",
+      "station_name": "Uspenska - Šafarikova"
     }
   ],
   "all_stations": [

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1388,
+  "seconds_left": 1697,
   "line_number": "71",
   "last_station_name": "Železnička Stanica 73",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "710",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 9,
+  "stations_between": 13,
   "direction": 1,
-  "garage_no": "1062",
+  "garage_no": "1067",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (BOCKE)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "710",
   "vehicles": [
     {
-      "garageNo": "1062",
-      "lat": "45.24328500",
-      "lng": "19.84157660",
-      "station_number": "6",
-      "station_name": "Bulevar oslobođenja-Bulevar Cara Lazara"
+      "garageNo": "1067",
+      "lat": "45.26449830",
+      "lng": "19.82962000",
+      "station_number": "1",
+      "station_name": "Železnička Stanica 73"
     }
   ],
   "all_stations": [

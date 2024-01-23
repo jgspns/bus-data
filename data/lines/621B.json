@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 13,
+  "seconds_left": 481,
   "line_number": "62",
   "last_station_name": "Dudara - Okretnica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "621B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 0,
+  "stations_between": 2,
   "direction": 1,
-  "garage_no": "1000",
+  "garage_no": "1078",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (DUDARA)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "621B",
   "vehicles": [
     {
-      "garageNo": "1000",
-      "lat": "45.26414330",
-      "lng": "19.82878500",
-      "station_number": "22",
-      "station_name": "MAS - Dolazni Peron"
+      "garageNo": "1078",
+      "lat": "45.24812330",
+      "lng": "19.83913830",
+      "station_number": "19",
+      "station_name": "Maksima Gorkog - Sremska"
     }
   ],
   "all_stations": [

@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 2167,
+  "seconds_left": 205,
   "line_number": "32",
   "last_station_name": "MAS-Dolazni Peron",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2646698037",
-  "stations_gpsy": "19.8292532816",
-  "station_name": "MAS-Dolazni Peron",
+  "stations_gpsx": "45.2688175681",
+  "stations_gpsy": "19.8317732329",
+  "station_name": "Sentandrejski put-Partizanska Lukoil",
   "price_table_ident": "price_l320B_xx_xx_2023_12_01_1",
   "to_price": " Novi Sad (Autobuska stanica )",
   "id": "9959",
   "actual_line_number": "320B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 9,
+  "stations_between": 1,
   "direction": 0,
-  "garage_no": "1064",
+  "garage_no": "753",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - TEMERIN",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "320B",
   "vehicles": [
     {
-      "garageNo": "1064",
-      "lat": "45.34089500",
-      "lng": "19.85159500",
-      "station_number": "14",
-      "station_name": "Bački Jarak 2-Crvene zgrade"
+      "garageNo": "753",
+      "lat": "45.27203000",
+      "lng": "19.84125500",
+      "station_number": "22",
+      "station_name": "Partizanska-Temerinska"
     }
   ],
   "all_stations": [
@@ -3493,7 +3493,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 6823,
+  "station_uid": 6740,
   "line_route": [
     "19.898638,45.434257,0,00:00:02",
     "19.89855,45.434247,0,00:00:03",

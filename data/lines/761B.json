@@ -1,8 +1,8 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 566,
+  "seconds_left": 2182,
   "line_number": "76",
-  "last_station_name": "Železnička Stanica",
+  "last_station_name": "Stari Ledinci - Okretnica",
   "time_wanted": 3600,
   "stations_gpsx": "45.2646700000",
   "stations_gpsy": "19.8307840000",
@@ -13,9 +13,9 @@
   "actual_line_number": "761B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 5,
-  "direction": 0,
-  "garage_no": "813",
+  "stations_between": 19,
+  "direction": 1,
+  "garage_no": "976",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - STARI LEDINCI",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "761B",
   "vehicles": [
     {
-      "garageNo": "813",
-      "lat": "45.24367000",
-      "lng": "19.84178660",
-      "station_number": "21",
-      "station_name": "Bulevar Oslobođenja - Bulevar Cara Lazara"
+      "garageNo": "976",
+      "lat": "45.20210660",
+      "lng": "19.80826160",
+      "station_number": "7",
+      "station_name": "Stari Ledinci - Savlovača II"
     }
   ],
   "all_stations": [

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 2606,
+  "seconds_left": 697,
   "line_number": "72",
   "last_station_name": "Železnička Stanica 73",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "721",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 17,
+  "stations_between": 5,
   "direction": 1,
   "garage_no": "1067",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (PARAGOVO)",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "1067",
-      "lat": "45.26447830",
-      "lng": "19.82966830",
-      "station_number": "1",
-      "station_name": "Železnička Stanica 73"
+      "lat": "45.21549330",
+      "lng": "19.84339830",
+      "station_number": "13",
+      "station_name": "Sremska Kamenica-Lole Ribara-Groblje"
     }
   ],
   "all_stations": [

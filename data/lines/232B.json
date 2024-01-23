@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 863,
+  "seconds_left": 370,
   "line_number": "23NT",
   "last_station_name": "Železnička Stanica",
   "time_wanted": 3600,
@@ -15,7 +15,7 @@
   "departure": 0,
   "stations_between": 4,
   "direction": 0,
-  "garage_no": "1029",
+  "garage_no": "743",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - BUDISAVA",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "232B",
   "vehicles": [
     {
-      "garageNo": "1029",
-      "lat": "45.27963160",
-      "lng": "20.00623000",
-      "station_number": "1",
-      "station_name": "Budisava - Okretnica"
+      "garageNo": "743",
+      "lat": "45.26537000",
+      "lng": "19.83076660",
+      "station_number": "20",
+      "station_name": "Železnička Stanica"
     }
   ],
   "all_stations": [

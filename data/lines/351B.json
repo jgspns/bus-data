@@ -1,8 +1,8 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1768,
+  "seconds_left": 1325,
   "line_number": "35ČL",
-  "last_station_name": "Železnička Stanica",
+  "last_station_name": "Čenej - Vuka Karadžića - Krajnja",
   "time_wanted": 3600,
   "stations_gpsx": "45.2646700000",
   "stations_gpsy": "19.8307840000",
@@ -13,8 +13,8 @@
   "actual_line_number": "351B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 10,
-  "direction": 0,
+  "stations_between": 7,
+  "direction": 1,
   "garage_no": "993",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - ČENEJ",
   "on_first_station_flag": 0,
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "993",
-      "lat": "45.36507490",
-      "lng": "19.83514990",
-      "station_number": "14",
-      "station_name": "Međunarodni Put II - Rakić Imanje"
+      "lat": "45.32993490",
+      "lng": "19.82908160",
+      "station_number": "17",
+      "station_name": "Rimski Šančevi - Institut Za Ratarstvo i Povrtarstvo"
     }
   ],
   "all_stations": [

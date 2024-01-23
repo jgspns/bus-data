@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 443,
+  "seconds_left": 907,
   "line_number": "43",
   "last_station_name": "Dolazni peron",
   "time_wanted": 3600,
-  "stations_gpsx": "45.4214894393",
-  "stations_gpsy": "19.6948314823",
-  "station_name": "Stepanovićevo-Okretnica",
+  "stations_gpsx": "45.2646700000",
+  "stations_gpsy": "19.8307840000",
+  "station_name": "Dolazni peron",
   "price_table_ident": "price_l430B_xx_xx_2023_12_01_1",
   "to_price": "Novi Sad (Železnička stanica)",
   "id": "10105",
   "actual_line_number": "430B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 18,
+  "stations_between": 7,
   "direction": 0,
-  "garage_no": "1058",
+  "garage_no": "757",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - STEPANOVIĆEVO",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "430B",
   "vehicles": [
     {
-      "garageNo": "1058",
-      "lat": "45.42142160",
-      "lng": "19.69400830",
-      "station_number": "1",
-      "station_name": "Stepanovićevo-Okretnica"
+      "garageNo": "757",
+      "lat": "45.28584660",
+      "lng": "19.76167160",
+      "station_number": "12",
+      "station_name": "Sajlovo-Bangladeš"
     }
   ],
   "all_stations": [
@@ -2607,7 +2607,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 12727,
+  "station_uid": 7152,
   "line_route": [
     "19.695134,45.421404,0,00:00:02",
     "19.695176,45.421306,0,00:00:04",

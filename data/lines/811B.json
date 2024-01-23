@@ -1,19 +1,19 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 3,
+  "seconds_left": 217,
   "line_number": "81",
   "last_station_name": "MAS - Dolazni Peron",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2116633500",
-  "stations_gpsy": "19.6068188500",
-  "station_name": "Banoštor 5-Okretnica",
+  "stations_gpsx": "45.2646698037",
+  "stations_gpsy": "19.8292532816",
+  "station_name": "MAS-Dolazni Peron",
   "price_table_ident": "price_l811B_xx_xx_2023_12_01_1",
   "to_price": "Novi Sad (Autobuska stanica)",
   "id": "10240",
   "actual_line_number": "811B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 36,
+  "stations_between": 2,
   "direction": 0,
   "garage_no": "752",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - BANOŠTOR",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "752",
-      "lat": "45.21133000",
-      "lng": "19.60619000",
-      "station_number": "1",
-      "station_name": "Banoštor V - Okretnica"
+      "lat": "45.25160830",
+      "lng": "19.83719660",
+      "station_number": "36",
+      "station_name": "Bulevar Oslobođenja - Futoška Pijaca"
     }
   ],
   "all_stations": [
@@ -10334,7 +10334,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 12717,
+  "station_uid": 6823,
   "line_route": [
     "19.606785,45.211795,0,00:00:02",
     "19.606868,45.211885,0,00:00:04",

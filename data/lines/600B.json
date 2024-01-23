@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 9,
+  "seconds_left": 3326,
   "line_number": "60",
   "last_station_name": "MAS - Dolazni Peron",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2513621340",
-  "stations_gpsy": "19.8732820552",
-  "station_name": "Preradovićeva-Šenoina",
+  "stations_gpsx": "45.2646698037",
+  "stations_gpsy": "19.8292532816",
+  "station_name": "MAS-Dolazni Peron",
   "price_table_ident": "price_l600B_xx_xx_2023_12_01_1",
   "to_price": "Novi Sad (Autobuska stanica)",
   "id": "10144",
   "actual_line_number": "600B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 0,
+  "stations_between": 18,
   "direction": 0,
-  "garage_no": "1077",
+  "garage_no": "1083",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (BELILO 2)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "600B",
   "vehicles": [
     {
-      "garageNo": "1077",
-      "lat": "45.25077330",
-      "lng": "19.87410500",
-      "station_number": "13",
-      "station_name": "Preradovićeva - Šenoina"
+      "garageNo": "1083",
+      "lat": "45.26518830",
+      "lng": "19.83114330",
+      "station_number": "20",
+      "station_name": "MAS - Dolazni Peron"
     }
   ],
   "all_stations": [
@@ -4055,7 +4055,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 6481,
+  "station_uid": 6823,
   "line_route": [
     "19.936994,45.188024,0,00:00:00",
     "19.936979,45.188128,0,00:00:02",

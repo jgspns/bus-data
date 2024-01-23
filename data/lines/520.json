@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1392,
+  "seconds_left": 1116,
   "line_number": "52",
   "last_station_name": "Železnička stanica Terminal 56",
   "time_wanted": 3600,
@@ -15,7 +15,7 @@
   "departure": 0,
   "stations_between": 13,
   "direction": 1,
-  "garage_no": "1035",
+  "garage_no": "1080",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - VETERNIK",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "520",
   "vehicles": [
     {
-      "garageNo": "1035",
-      "lat": "45.24802660",
-      "lng": "19.81343500",
-      "station_number": "6",
-      "station_name": "Futoška-Bulevar Evrope"
+      "garageNo": "1080",
+      "lat": "45.24783330",
+      "lng": "19.81006330",
+      "station_number": "7",
+      "station_name": "Futoška-Jugoalat"
     }
   ],
   "all_stations": [

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1157,
+  "seconds_left": 598,
   "line_number": "51B",
   "last_station_name": "Veternik-Vojvode Bojovića 57",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "511B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 8,
+  "stations_between": 4,
   "direction": 1,
-  "garage_no": "1004",
+  "garage_no": "1032",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - SAJLOVO - VETERNIK - NOVI SAD (ŽELEZNIČKA STANICA)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "511B",
   "vehicles": [
     {
-      "garageNo": "1004",
-      "lat": "45.24436000",
-      "lng": "19.79460000",
-      "station_number": "14",
-      "station_name": "Futoški put-Bulevar patrijarha Pavla"
+      "garageNo": "1032",
+      "lat": "45.24925500",
+      "lng": "19.82402000",
+      "station_number": "18",
+      "station_name": "Futoška-Cara Dušana"
     }
   ],
   "all_stations": [

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 967,
+  "seconds_left": 45,
   "line_number": "79",
   "last_station_name": "MAS - Dolazni Peron",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "790B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
+  "stations_between": 2,
   "direction": 0,
-  "garage_no": "937",
+  "garage_no": "989",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - ČEREVIĆ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "790B",
   "vehicles": [
     {
-      "garageNo": "937",
-      "lat": "45.20673830",
-      "lng": "19.69897990",
-      "station_number": "6",
-      "station_name": "Beočin IX - Raskrsnica Za Čot"
+      "garageNo": "989",
+      "lat": "45.21812490",
+      "lng": "19.71267000",
+      "station_number": "8",
+      "station_name": "Beočin VII - Raskrsnica"
     }
   ],
   "all_stations": [

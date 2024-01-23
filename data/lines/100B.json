@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 45,
+  "seconds_left": 703,
   "line_number": "10",
   "last_station_name": "Put Novosadskog Partizanskog Odreda - Albus",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "100B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 1,
+  "stations_between": 11,
   "direction": 1,
-  "garage_no": "996",
+  "garage_no": "787",
   "line_title": "CENTAR - INDUSTRIJSKA ZONA JUG",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "100B",
   "vehicles": [
     {
-      "garageNo": "996",
-      "lat": "45.25294000",
-      "lng": "19.83628330",
-      "station_number": "12",
-      "station_name": "Jevrejska - Bulevar Oslobođenja"
+      "garageNo": "787",
+      "lat": "45.25517660",
+      "lng": "19.84134160",
+      "station_number": "13",
+      "station_name": "Uspenska - Pozorišni Trg"
     }
   ],
   "all_stations": [

@@ -1,12 +1,12 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 396,
+  "seconds_left": 323,
   "line_number": "78",
-  "last_station_name": "Beočin Selo IX - Okretnica",
+  "last_station_name": "MAS - Dolazni Peron",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2646698037",
-  "stations_gpsy": "19.8292532816",
-  "station_name": "MAS-Dolazni Peron",
+  "stations_gpsx": "45.2069593138",
+  "stations_gpsy": "19.7213415258",
+  "station_name": "Beočin 5-Autobuska stanica za NS",
   "price_table_ident": "price_l781B_xx_xx_2023_12_01_1",
   "to_price": "Novi Sad (Autobuska stanica)",
   "id": "10159",
@@ -14,7 +14,7 @@
   "arrival": 1,
   "departure": 0,
   "stations_between": 3,
-  "direction": 1,
+  "direction": 0,
   "garage_no": "831",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - BEOČIN SELO",
   "on_first_station_flag": 0,
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "831",
-      "lat": "45.24206160",
-      "lng": "19.84261660",
-      "station_number": "39",
-      "station_name": "Bulevar Oslobođenja - Narodnog Fronta"
+      "lat": "45.26491160",
+      "lng": "19.82885000",
+      "station_number": "42",
+      "station_name": "MAS - Dolazni Peron"
     }
   ],
   "all_stations": [
@@ -9600,7 +9600,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 6823,
+  "station_uid": 3899,
   "line_route": [
     "19.72645,45.187912,0,00:00:02",
     "19.726452,45.187912,0,00:00:03",

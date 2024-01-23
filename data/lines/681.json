@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 636,
+  "seconds_left": 1312,
   "line_number": "68",
   "last_station_name": "Železnička Stanica 73",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "681",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
+  "stations_between": 9,
   "direction": 1,
-  "garage_no": "788",
+  "garage_no": "787",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (VOJINOVO)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "681",
   "vehicles": [
     {
-      "garageNo": "788",
-      "lat": "45.21886500",
-      "lng": "19.85465330",
-      "station_number": "10",
-      "station_name": "Institut"
+      "garageNo": "787",
+      "lat": "45.24817500",
+      "lng": "19.83882830",
+      "station_number": "5",
+      "station_name": "Bulevar oslobođenja-braće Ribnikar"
     }
   ],
   "all_stations": [

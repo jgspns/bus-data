@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1551,
+  "seconds_left": 1247,
   "line_number": "1",
   "last_station_name": "Štrand-Okretnica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "10B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 16,
+  "stations_between": 13,
   "direction": 1,
-  "garage_no": "1008",
+  "garage_no": "1024",
   "line_title": "KLISA - CENTAR - LIMAN 1",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "10B",
   "vehicles": [
     {
-      "garageNo": "1008",
-      "lat": "45.25503330",
-      "lng": "19.84206830",
-      "station_number": "6",
-      "station_name": "Uspenska-Pozorišni trg"
+      "garageNo": "1024",
+      "lat": "45.26489490",
+      "lng": "19.83684160",
+      "station_number": "9",
+      "station_name": "Kisačka-Podvožnjak"
     }
   ],
   "all_stations": [

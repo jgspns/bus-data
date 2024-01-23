@@ -1,8 +1,8 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 206,
+  "seconds_left": 692,
   "line_number": "5",
-  "last_station_name": "Temerinski put-Nadvožnjak-Okretnica",
+  "last_station_name": "Avijatičarska-Kasarna-Okretnica",
   "time_wanted": 3600,
   "stations_gpsx": "45.3023362019",
   "stations_gpsy": "19.8304042009",
@@ -13,9 +13,9 @@
   "actual_line_number": "50B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 6,
-  "direction": 0,
-  "garage_no": "729",
+  "stations_between": 14,
+  "direction": 1,
+  "garage_no": "917",
   "line_title": "TEMERINSKI PUT - CENTAR-AVIJATIČARSKO NASELJE",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "50B",
   "vehicles": [
     {
-      "garageNo": "729",
-      "lat": "45.28347990",
-      "lng": "19.83460660",
-      "station_number": "18",
-      "station_name": "Temerinska-Najlon pijaca Stadion"
+      "garageNo": "917",
+      "lat": "45.25216500",
+      "lng": "19.83769330",
+      "station_number": "10",
+      "station_name": "Jevrejska-Bulevar oslobođenja"
     }
   ],
   "all_stations": [

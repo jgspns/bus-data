@@ -1,8 +1,8 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 2979,
+  "seconds_left": 1548,
   "line_number": "54",
-  "last_station_name": "Železnička stanica terminal 53",
+  "last_station_name": "Futog-Milan Vidak-Okretnica",
   "time_wanted": 3600,
   "stations_gpsx": "45.2502490000",
   "stations_gpsy": "19.7005280000",
@@ -13,9 +13,9 @@
   "actual_line_number": "540",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 22,
-  "direction": 1,
-  "garage_no": "1038",
+  "stations_between": 13,
+  "direction": 0,
+  "garage_no": "815",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - FUTOG (GRMEČKA)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "540",
   "vehicles": [
     {
-      "garageNo": "1038",
-      "lat": "45.26521500",
-      "lng": "19.83086330",
-      "station_number": "1",
-      "station_name": "Železnička stanica terminal 53"
+      "garageNo": "815",
+      "lat": "45.24343330",
+      "lng": "19.78716160",
+      "station_number": "11",
+      "station_name": "Futoški put-Benzinska stanica"
     }
   ],
   "all_stations": [

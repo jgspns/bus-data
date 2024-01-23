@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1091,
+  "seconds_left": 1031,
   "line_number": "31K",
   "last_station_name": "Temerin 2-Igralište",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "311B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 5,
+  "stations_between": 4,
   "direction": 1,
   "garage_no": "1076",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - BAČKI JARAK ",
@@ -27,8 +27,8 @@
   "vehicles": [
     {
       "garageNo": "1076",
-      "lat": "45.31282330",
-      "lng": "19.83159660",
+      "lat": "45.30701000",
+      "lng": "19.83030490",
       "station_number": "10",
       "station_name": "Rimski šančevi-Raskrsnica za Sirig"
     }

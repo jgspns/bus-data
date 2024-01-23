@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 2169,
+  "seconds_left": 965,
   "line_number": "77",
   "last_station_name": "Stari Rakovac VIII - Okretnica",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "770B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 23,
+  "stations_between": 19,
   "direction": 1,
   "garage_no": "1034",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - STARI RAKOVAC",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "1034",
-      "lat": "45.18115330",
-      "lng": "19.77087660",
-      "station_number": "1",
-      "station_name": "Stari Rakovac VIII - Okretnica"
+      "lat": "45.19584160",
+      "lng": "19.76986160",
+      "station_number": "6",
+      "station_name": "Stari Rakovac III - Žuta Kuća"
     }
   ],
   "all_stations": [

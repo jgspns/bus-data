@@ -1,8 +1,8 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 409,
+  "seconds_left": 1395,
   "line_number": "69",
-  "last_station_name": "Železnička Stanica 73",
+  "last_station_name": "Sremska Kamenica-Čardak-Okretnica",
   "time_wanted": 3600,
   "stations_gpsx": "45.2118913564",
   "stations_gpsy": "19.8492708150",
@@ -13,9 +13,9 @@
   "actual_line_number": "690",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 2,
-  "direction": 1,
-  "garage_no": "1066",
+  "stations_between": 14,
+  "direction": 0,
+  "garage_no": "1003",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (ČARDAK)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "690",
   "vehicles": [
     {
-      "garageNo": "1066",
-      "lat": "45.22192160",
-      "lng": "19.84965830",
-      "station_number": "19",
-      "station_name": "Moše Pijade-Škola policije za NS"
+      "garageNo": "1003",
+      "lat": "45.25420000",
+      "lng": "19.85291990",
+      "station_number": "8",
+      "station_name": "Bulevar Mihajla Pupina-Sonje Marinković"
     }
   ],
   "all_stations": [

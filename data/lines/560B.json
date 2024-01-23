@@ -1,8 +1,8 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 85,
+  "seconds_left": 2341,
   "line_number": "56",
-  "last_station_name": "Železnička Stanica",
+  "last_station_name": "Begeč - Okretnica",
   "time_wanted": 3600,
   "stations_gpsx": "45.2646700000",
   "stations_gpsy": "19.8307840000",
@@ -13,9 +13,9 @@
   "actual_line_number": "560B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 0,
-  "direction": 0,
-  "garage_no": "1059",
+  "stations_between": 10,
+  "direction": 1,
+  "garage_no": "820",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - BEGEČ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "560B",
   "vehicles": [
     {
-      "garageNo": "1059",
-      "lat": "45.26070660",
-      "lng": "19.83215000",
-      "station_number": "26",
-      "station_name": "Železnička Stanica"
+      "garageNo": "820",
+      "lat": "45.24440000",
+      "lng": "19.72790500",
+      "station_number": "16",
+      "station_name": "Futog - Rade Kondića - Rumenačka (Kurjak)"
     }
   ],
   "all_stations": [

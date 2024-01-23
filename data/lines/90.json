@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 397,
+  "seconds_left": 1248,
   "line_number": "9",
-  "last_station_name": "Novo Naselje - Kružni tok",
+  "last_station_name": "Petrovaradin - Okretnica",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2360286654",
-  "stations_gpsy": "19.8878373558",
-  "station_name": "Petrovaradin-Okretnica",
+  "stations_gpsx": "45.2436190000",
+  "stations_gpsy": "19.8250940000",
+  "station_name": "Cara Dušana-Teodora Pavlovića",
   "price_table_ident": "price_l90_xx_xx_2023_12_01_1",
   "to_price": "Petrovaradin",
   "id": "9993",
   "actual_line_number": "90",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
-  "direction": 1,
-  "garage_no": "1090",
+  "stations_between": 8,
+  "direction": 0,
+  "garage_no": "1095",
   "line_title": "NOVO NASELJE-LIMAN-PETROVARADIN",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "90",
   "vehicles": [
     {
-      "garageNo": "1090",
-      "lat": "45.25004990",
-      "lng": "19.87505500",
-      "station_number": "21",
-      "station_name": "Preradovićeva - Reljkovićeva"
+      "garageNo": "1095",
+      "lat": "45.24801000",
+      "lng": "19.78694330",
+      "station_number": "1",
+      "station_name": "Novo Naselje - Kružni tok"
     }
   ],
   "all_stations": [
@@ -4837,7 +4837,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 6475,
+  "station_uid": 6681,
   "line_route": [
     "19.78625,45.248197,0,00:00:03",
     "19.786371,45.248173,0,00:00:06",

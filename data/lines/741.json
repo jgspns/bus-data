@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 2659,
+  "seconds_left": 640,
   "line_number": "74",
   "last_station_name": "Železnička Stanica 73",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "741",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 19,
+  "stations_between": 6,
   "direction": 1,
   "garage_no": "819",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - SREMSKA KAMENICA (POPOVICA)",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "819",
-      "lat": "45.24341160",
-      "lng": "19.84154830",
-      "station_number": "6",
-      "station_name": "Bulevar oslobođenja-Bulevar Cara Lazara"
+      "lat": "45.20474830",
+      "lng": "19.83214000",
+      "station_number": "20",
+      "station_name": "Popovica-Fruškogorski put 130"
     }
   ],
   "all_stations": [

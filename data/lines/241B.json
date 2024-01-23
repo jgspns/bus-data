@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 2721,
+  "seconds_left": 2664,
   "line_number": "24NKA",
   "last_station_name": "Kovilj-Okretnica",
   "time_wanted": 3600,
@@ -15,7 +15,7 @@
   "departure": 0,
   "stations_between": 21,
   "direction": 1,
-  "garage_no": "788",
+  "garage_no": "1040",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - KOVILJ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,9 +26,9 @@
   "main_line_number": "241B",
   "vehicles": [
     {
-      "garageNo": "788",
-      "lat": "45.28159160",
-      "lng": "19.98080000",
+      "garageNo": "1040",
+      "lat": "45.28161490",
+      "lng": "19.98041830",
       "station_number": "13",
       "station_name": "Budisava-Ulaz"
     }

@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 403,
+  "seconds_left": 1872,
   "line_number": "33T",
   "last_station_name": "MAS - Polazni Peron 13",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "331",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 3,
+  "stations_between": 8,
   "direction": 1,
-  "garage_no": "982",
+  "garage_no": "1000",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA)-GOSPOĐINCI",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "331",
   "vehicles": [
     {
-      "garageNo": "982",
-      "lat": "45.40376000",
-      "lng": "19.96712330",
-      "station_number": "28",
-      "station_name": "Gospođinci I - Mlin (Šangaj)"
+      "garageNo": "1000",
+      "lat": "45.43252500",
+      "lng": "19.89778500",
+      "station_number": "23",
+      "station_name": "Temerin IX - Almaška - Okretnica"
     }
   ],
   "all_stations": [

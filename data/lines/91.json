@@ -1,21 +1,21 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 714,
+  "seconds_left": 60,
   "line_number": "9A",
   "last_station_name": "Put Novi Sad-Ruma-Alibegovac",
   "time_wanted": 3600,
-  "stations_gpsx": "45.2436190000",
-  "stations_gpsy": "19.8250940000",
-  "station_name": "Cara Dušana-Teodora Pavlovića",
+  "stations_gpsx": "45.2265600000",
+  "stations_gpsy": "19.8717340000",
+  "station_name": "Okretnica-Mišeluk bolnica",
   "price_table_ident": "price_l91_xx_xx_2023_12_01_1",
   "to_price": "Petrovaradin (Alibegovac)",
   "id": "9995",
   "actual_line_number": "91",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 6,
+  "stations_between": 0,
   "direction": 0,
-  "garage_no": "1095",
+  "garage_no": "1090",
   "line_title": "NOVO NASELJE-LIMAN-PETROVARADIN",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "91",
   "vehicles": [
     {
-      "garageNo": "1095",
-      "lat": "45.25113330",
-      "lng": "19.79834830",
-      "station_number": "4",
-      "station_name": "Bulevar Jovana Dučića-Bate Brkića"
+      "garageNo": "1090",
+      "lat": "45.22563830",
+      "lng": "19.87837160",
+      "station_number": "26",
+      "station_name": "Put Novi Sad-Ruma-Alibegovac"
     }
   ],
   "all_stations": [
@@ -4791,7 +4791,7 @@
   ],
   "count_directions": 3,
   "display": false,
-  "station_uid": 6681,
+  "station_uid": 12590,
   "line_route": [
     "19.786074,45.248137,0,00:00:00",
     "19.786131,45.24821,0,00:00:03",

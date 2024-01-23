@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 685,
+  "seconds_left": 658,
   "line_number": "51A",
   "last_station_name": "Železnička stanica Terminal 56",
   "time_wanted": 3600,
@@ -15,7 +15,7 @@
   "departure": 0,
   "stations_between": 6,
   "direction": 1,
-  "garage_no": "1010",
+  "garage_no": "1004",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - VETERNIK - SAJLOVO - NOVI SAD (ŽELEZNIČKA STANICA)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "510",
   "vehicles": [
     {
-      "garageNo": "1010",
-      "lat": "45.24679830",
-      "lng": "19.76787500",
-      "station_number": "14",
-      "station_name": "Veternik-Fešter"
+      "garageNo": "1004",
+      "lat": "45.24540660",
+      "lng": "19.77413830",
+      "station_number": "13",
+      "station_name": "Novosadski put-Sportski Centar"
     }
   ],
   "all_stations": [

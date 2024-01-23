@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 742,
+  "seconds_left": 1961,
   "line_number": "32NKA",
   "last_station_name": "Koteksprodukt-Okretnica",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "321B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 10,
+  "stations_between": 24,
   "direction": 0,
   "garage_no": "929",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - TEMERIN",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "929",
-      "lat": "45.32976500",
-      "lng": "19.84488490",
-      "station_number": "16",
-      "station_name": "Rimski šančevi-Institut za Ratarstvo i Povrtarstvo"
+      "lat": "45.26533330",
+      "lng": "19.83109160",
+      "station_number": "21",
+      "station_name": "Primorska-Sentandrejski put"
     }
   ],
   "all_stations": [

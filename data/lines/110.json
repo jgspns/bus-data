@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 585,
+  "seconds_left": 978,
   "line_number": "11A",
   "last_station_name": "Železnička stanica",
   "time_wanted": 3600,
@@ -13,7 +13,7 @@
   "actual_line_number": "110",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 4,
+  "stations_between": 5,
   "direction": 0,
   "garage_no": "1094",
   "line_title": "ŽELEZNIČKA STANICA - BOLNICA - LIMAN - ŽELEZNIČKA STANICA",
@@ -27,10 +27,10 @@
   "vehicles": [
     {
       "garageNo": "1094",
-      "lat": "45.26404990",
-      "lng": "19.82311000",
-      "station_number": "2",
-      "station_name": "Bulevar Jaše Tomića - Železnički Park"
+      "lat": "45.26403830",
+      "lng": "19.82951830",
+      "station_number": "1",
+      "station_name": "Bulevar Jaše Tomića-Železnička stanica"
     }
   ],
   "all_stations": [

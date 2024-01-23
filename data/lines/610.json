@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 3120,
+  "seconds_left": 1514,
   "line_number": "61",
   "last_station_name": "MAS-Polazni Peron 13",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "610",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 16,
+  "stations_between": 9,
   "direction": 1,
-  "garage_no": "984",
+  "garage_no": "833",
   "line_title": "NOVI SAD (AUTOBUSKA STANICA) - SREMSKI KARLOVCI (VINOGRADARSKA)",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "610",
   "vehicles": [
     {
-      "garageNo": "984",
-      "lat": "45.25430990",
-      "lng": "19.84225490",
-      "station_number": "5",
-      "station_name": "Žarka Zrenjanina-Izvršno veće"
+      "garageNo": "833",
+      "lat": "45.25067000",
+      "lng": "19.87407830",
+      "station_number": "8",
+      "station_name": "Preradovićeva-Osnovna škola Jovan Dučić"
     }
   ],
   "all_stations": [

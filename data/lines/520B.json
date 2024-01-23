@@ -1,8 +1,8 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 895,
+  "seconds_left": 872,
   "line_number": "52",
-  "last_station_name": "Veternik-Vojvode Bojovića 57",
+  "last_station_name": "Železnička stanica",
   "time_wanted": 3600,
   "stations_gpsx": "45.2646700000",
   "stations_gpsy": "19.8307840000",
@@ -14,8 +14,8 @@
   "arrival": 1,
   "departure": 0,
   "stations_between": 7,
-  "direction": 1,
-  "garage_no": "1083",
+  "direction": 0,
+  "garage_no": "985",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - VETERNIK",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,9 +26,9 @@
   "main_line_number": "520B",
   "vehicles": [
     {
-      "garageNo": "1083",
-      "lat": "45.24571500",
-      "lng": "19.79913830",
+      "garageNo": "985",
+      "lat": "45.24618660",
+      "lng": "19.80065500",
       "station_number": "15",
       "station_name": "Futoški put-Satelitska pijaca"
     }

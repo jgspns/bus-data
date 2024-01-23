@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 1458,
+  "seconds_left": 672,
   "line_number": "21",
   "last_station_name": "Železnička Stanica",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "210B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 12,
+  "stations_between": 6,
   "direction": 0,
-  "garage_no": "938",
+  "garage_no": "1070",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - ŠANGAJ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "210B",
   "vehicles": [
     {
-      "garageNo": "938",
-      "lat": "45.26535160",
-      "lng": "19.83078160",
-      "station_number": "14",
-      "station_name": "Železnička Stanica"
+      "garageNo": "1070",
+      "lat": "45.27741500",
+      "lng": "19.85010330",
+      "station_number": "7",
+      "station_name": "Put Šajkaškog Odreda - Butangas"
     }
   ],
   "all_stations": [

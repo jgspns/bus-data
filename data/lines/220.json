@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 3379,
+  "seconds_left": 1833,
   "line_number": "22",
   "last_station_name": "Železnička Stanica Terminal",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "220",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 14,
+  "stations_between": 9,
   "direction": 1,
-  "garage_no": "1065",
+  "garage_no": "1034",
   "line_title": "NOVI SAD (ŽELEZNIČKA STANICA) - KAĆ",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "220",
   "vehicles": [
     {
-      "garageNo": "1065",
-      "lat": "45.26525830",
-      "lng": "19.82990160",
-      "station_number": "1",
-      "station_name": "Železnička Stanica Terminal"
+      "garageNo": "1034",
+      "lat": "45.29853660",
+      "lng": "19.85617000",
+      "station_number": "7",
+      "station_name": "Industrijska Zona Veliki Rit"
     }
   ],
   "all_stations": [

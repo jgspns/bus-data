@@ -1,6 +1,6 @@
 {
   "just_coordinates": "0",
-  "seconds_left": 72,
+  "seconds_left": 210,
   "line_number": "9",
   "last_station_name": "Novo Naselje - Kružni tok",
   "time_wanted": 3600,
@@ -13,9 +13,9 @@
   "actual_line_number": "90B",
   "arrival": 1,
   "departure": 0,
-  "stations_between": 2,
+  "stations_between": 4,
   "direction": 0,
-  "garage_no": "746",
+  "garage_no": "952",
   "line_title": "NOVO NASELJE-PETROVARADIN-LIMAN",
   "on_first_station_flag": 0,
   "gps_lat": 0,
@@ -26,11 +26,11 @@
   "main_line_number": "90B",
   "vehicles": [
     {
-      "garageNo": "746",
-      "lat": "45.24412000",
-      "lng": "19.88113160",
-      "station_number": "3",
-      "station_name": "Preradovićeva - Božidar Adžije"
+      "garageNo": "952",
+      "lat": "45.24802330",
+      "lng": "19.78759490",
+      "station_number": "26",
+      "station_name": "Novo Naselje - Kružni tok"
     }
   ],
   "all_stations": [
